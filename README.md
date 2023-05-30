@@ -22,9 +22,9 @@ Each data structure is implemented in Java and comes with its own set of methods
 
 The repository also includes implementations of various algorithms, such as:
 
-- Sorting algorithms (e.g., Bubble Sort, Insertion Sort, Merge Sort, Quick Sort)
-- Searching algorithms (e.g., Linear Search, Binary Search)
-- Graph algorithms (e.g., Depth-First Search, Breadth-First Search)
+- Sorting algorithms 
+- Searching algorithms 
+- Graph algorithms 
 - Dynamic Programming algorithms
 - And more...
 
@@ -34,4 +34,4 @@ The code for each algorithm is written in Java
 
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional data structures and algorithms to add, feel free to submit a pull request.
 
-Happy coding and enjoy exploring the world of data structures and algorithms in Java!
+### Happy coding and enjoy exploring the world of data structures and algorithms in Java!
